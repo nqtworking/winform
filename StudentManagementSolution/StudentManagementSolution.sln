@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementWcfHost", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmPractice", "AlgorithmPractice\AlgorithmPractice.csproj", "{853E6287-416B-4CE8-806B-4282F99A2A38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpKeywordsPractice", "CSharpKeywordsPractice\CSharpKeywordsPractice.csproj", "{73980A9A-2D86-44CE-AD82-F074641CD0DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{853E6287-416B-4CE8-806B-4282F99A2A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{853E6287-416B-4CE8-806B-4282F99A2A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{853E6287-416B-4CE8-806B-4282F99A2A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73980A9A-2D86-44CE-AD82-F074641CD0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73980A9A-2D86-44CE-AD82-F074641CD0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73980A9A-2D86-44CE-AD82-F074641CD0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73980A9A-2D86-44CE-AD82-F074641CD0DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
