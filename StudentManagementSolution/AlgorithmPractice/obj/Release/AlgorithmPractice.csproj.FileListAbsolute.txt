@@ -1,0 +1,8 @@
+C:\Tuan\Development\winform\StudentManagementSolution\AlgorithmPractice\bin\Release\AlgorithmPractice.exe.config
+C:\Tuan\Development\winform\StudentManagementSolution\AlgorithmPractice\bin\Release\AlgorithmPractice.exe
+C:\Tuan\Development\winform\StudentManagementSolution\AlgorithmPractice\bin\Release\AlgorithmPractice.pdb
+C:\Tuan\Development\winform\StudentManagementSolution\AlgorithmPractice\obj\Release\AlgorithmPractice.csproj.AssemblyReference.cache
+C:\Tuan\Development\winform\StudentManagementSolution\AlgorithmPractice\obj\Release\AlgorithmPractice.csproj.CoreCompileInputs.cache
+C:\Tuan\Development\winform\StudentManagementSolution\AlgorithmPractice\obj\Release\AlgorithmPractice.exe
+C:\Tuan\Development\winform\StudentManagementSolution\AlgorithmPractice\obj\Release\AlgorithmPractice.pdb
+C:\Tuan\Development\winform\StudentManagementSolution\AlgorithmPractice\obj\Release\AlgorithmPractice.exe.config
