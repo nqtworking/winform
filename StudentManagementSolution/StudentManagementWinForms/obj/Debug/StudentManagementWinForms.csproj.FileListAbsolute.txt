@@ -1,0 +1,10 @@
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\bin\Debug\StudentManagementWinForms.exe.config
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\bin\Debug\StudentManagementWinForms.exe
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\bin\Debug\StudentManagementWinForms.pdb
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\obj\Debug\StudentManagementWinForms.csproj.AssemblyReference.cache
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\obj\Debug\StudentManagementWinForms.Properties.Resources.resources
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\obj\Debug\StudentManagementWinForms.csproj.GenerateResource.cache
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\obj\Debug\StudentManagementWinForms.csproj.CoreCompileInputs.cache
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\obj\Debug\StudentManagementWinForms.exe
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\obj\Debug\StudentManagementWinForms.pdb
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\obj\Debug\StudentManagementWinForms.exe.config

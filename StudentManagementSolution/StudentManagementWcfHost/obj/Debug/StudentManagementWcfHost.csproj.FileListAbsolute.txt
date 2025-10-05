@@ -1,0 +1,11 @@
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\bin\StudentManagementWcfHost.dll.config
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\bin\StudentManagementWcfHost.dll
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\bin\StudentManagementWcfHost.pdb
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\bin\StudentManagementService.dll
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\bin\StudentManagementService.pdb
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\bin\StudentManagementService.dll.config
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\obj\Debug\StudentManagementWcfHost.csproj.AssemblyReference.cache
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\obj\Debug\StudentManagementWcfHost.csproj.CoreCompileInputs.cache
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\obj\Debug\StudentM.91D7C445.Up2Date
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\obj\Debug\StudentManagementWcfHost.dll
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWcfHost\obj\Debug\StudentManagementWcfHost.pdb

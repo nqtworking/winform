@@ -1,0 +1,7 @@
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementService\bin\Debug\StudentManagementService.dll.config
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementService\bin\Debug\StudentManagementService.dll
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementService\bin\Debug\StudentManagementService.pdb
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementService\obj\Debug\StudentManagementService.csproj.AssemblyReference.cache
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementService\obj\Debug\StudentManagementService.csproj.CoreCompileInputs.cache
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementService\obj\Debug\StudentManagementService.dll
+C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementService\obj\Debug\StudentManagementService.pdb
