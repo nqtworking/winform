@@ -1,0 +1,7 @@
+C:\Tuan\Development\winform\StudentManagementSolution\CSharpKeywordsPractice\bin\Release\CSharpKeywordsPractice.exe.config
+C:\Tuan\Development\winform\StudentManagementSolution\CSharpKeywordsPractice\bin\Release\CSharpKeywordsPractice.exe
+C:\Tuan\Development\winform\StudentManagementSolution\CSharpKeywordsPractice\bin\Release\CSharpKeywordsPractice.pdb
+C:\Tuan\Development\winform\StudentManagementSolution\CSharpKeywordsPractice\obj\Release\CSharpKeywordsPractice.csproj.AssemblyReference.cache
+C:\Tuan\Development\winform\StudentManagementSolution\CSharpKeywordsPractice\obj\Release\CSharpKeywordsPractice.csproj.CoreCompileInputs.cache
+C:\Tuan\Development\winform\StudentManagementSolution\CSharpKeywordsPractice\obj\Release\CSharpKeywordsPractice.exe
+C:\Tuan\Development\winform\StudentManagementSolution\CSharpKeywordsPractice\obj\Release\CSharpKeywordsPractice.pdb

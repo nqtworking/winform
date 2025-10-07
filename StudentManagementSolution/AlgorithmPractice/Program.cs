@@ -16,6 +16,7 @@ namespace AlgorithmPractice
                 Console.Clear();
                 Console.WriteLine("C# Collections Practice");
                 Console.WriteLine("=====================");
+                Console.WriteLine("-1. Custom code");
                 Console.WriteLine("1. Array Operations");
                 Console.WriteLine("2. List Operations");
                 Console.WriteLine("3. Dictionary Operations");
@@ -34,6 +35,9 @@ namespace AlgorithmPractice
                 
                 switch (choice)
                 {
+                    case "-1":
+                        PracticeCustomCode();
+                        break;
                     case "1":
                         PracticeWithArray();
                         break;
@@ -72,6 +76,89 @@ namespace AlgorithmPractice
                 Console.WriteLine("\nPress any key to return to menu...");
                 Console.ReadKey();
             }
+        }
+
+        static void PracticeCustomCode()
+        {
+            var input1 = "listen";
+            var input2 = "silentr";
+            Console.WriteLine($"AnagramDetection('{input1}', '{input2}') = {AnagramDetection(input1, input2)}");
+        }
+
+        static bool PalindromeChecker(string input)
+        {
+            var index = 0;
+            while (input.Length - index - 1 >= index)
+            {
+                if (input[index] != input[input.Length - index - 1])
+                {
+                    return false;
+                }
+
+                index++;
+            }
+
+            return true;
+        }
+
+        static bool AnagramDetection(string str1, string str2) {
+            if (str1.Length != str2.Length) return false;
+            Dictionary<char, int> charCount = new Dictionary<char, int>();
+            foreach (char c in str1) {
+                if (charCount.ContainsKey(c)) {
+                    charCount[c]++;
+                } else {
+                    charCount[c] = 1;
+                }
+            }
+
+            foreach (char c in str2) {
+                if (charCount.ContainsKey(c)) {
+                    charCount[c]--;
+                    if (charCount[c] < 0) return false;
+                } else {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        static string LongestSubstringWithoutRepeatingCharacters(string input)
+        {
+            if (string.IsNullOrEmpty(input)) return "";
+
+            Dictionary<char, int> charIndexMap = new Dictionary<char, int>();
+            int startIndex = 0;
+            int maxLength = 0;
+            int maxStartIndex = 0;
+
+            for (int i = 0; i < input.Length; i++)
+            {
+                char c = input[i];
+                if (charIndexMap.ContainsKey(c) && charIndexMap[c] >= startIndex)
+                {
+                    // Nếu ký tự này đã xuất hiện trong cửa sổ hiện tại,
+                    // di chuyển điểm bắt đầu đến vị trí sau lần xuất hiện trước đó
+                    startIndex = charIndexMap[c] + 1;
+                }
+                else
+                {
+                    // Kiểm tra và cập nhật độ dài tối đa
+                    int currentLength = i - startIndex + 1;
+                    if (currentLength > maxLength)
+                    {
+                        maxLength = currentLength;
+                        maxStartIndex = startIndex;
+                    }
+                }
+
+                // Cập nhật vị trí mới nhất của ký tự này
+                charIndexMap[c] = i;
+            }
+
+            // Trả về chuỗi con dài nhất
+            return input.Substring(maxStartIndex, maxLength);
         }
 
         static void ElementAccessExamples()

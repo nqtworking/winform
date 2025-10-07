@@ -7,3 +7,13 @@ C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\
 C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\obj\Release\StudentManagementWinForms.csproj.CoreCompileInputs.cache
 C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\obj\Release\StudentManagementWinForms.exe
 C:\Users\nqtpe\source\repos\StudentManagementSolution\StudentManagementWinForms\obj\Release\StudentManagementWinForms.pdb
+C:\Tuan\Development\winform\StudentManagementSolution\StudentManagementWinForms\bin\Release\StudentManagementWinForms.exe.config
+C:\Tuan\Development\winform\StudentManagementSolution\StudentManagementWinForms\bin\Release\StudentManagementWinForms.exe
+C:\Tuan\Development\winform\StudentManagementSolution\StudentManagementWinForms\bin\Release\StudentManagementWinForms.pdb
+C:\Tuan\Development\winform\StudentManagementSolution\StudentManagementWinForms\obj\Release\StudentManagementWinForms.csproj.AssemblyReference.cache
+C:\Tuan\Development\winform\StudentManagementSolution\StudentManagementWinForms\obj\Release\StudentManagementWinForms.exe.config
+C:\Tuan\Development\winform\StudentManagementSolution\StudentManagementWinForms\obj\Release\StudentManagementWinForms.Properties.Resources.resources
+C:\Tuan\Development\winform\StudentManagementSolution\StudentManagementWinForms\obj\Release\StudentManagementWinForms.csproj.GenerateResource.cache
+C:\Tuan\Development\winform\StudentManagementSolution\StudentManagementWinForms\obj\Release\StudentManagementWinForms.csproj.CoreCompileInputs.cache
+C:\Tuan\Development\winform\StudentManagementSolution\StudentManagementWinForms\obj\Release\StudentManagementWinForms.exe
+C:\Tuan\Development\winform\StudentManagementSolution\StudentManagementWinForms\obj\Release\StudentManagementWinForms.pdb

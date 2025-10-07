@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{853E6287-416B-4CE8-806B-4282F99A2A38}|AlgorithmPractice\\AlgorithmPractice.csproj|c:\\tuan\\development\\winform\\studentmanagementsolution\\algorithmpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{853E6287-416B-4CE8-806B-4282F99A2A38}|AlgorithmPractice\\AlgorithmPractice.csproj|solutionrelative:algorithmpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EFCD456-421C-49BB-BC6E-1C7AA3FC7D1C}|StudentManagementWinForms\\StudentManagementWinForms.csproj|c:\\tuan\\development\\winform\\studentmanagementsolution\\studentmanagementwinforms\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFCD456-421C-49BB-BC6E-1C7AA3FC7D1C}|StudentManagementWinForms\\StudentManagementWinForms.csproj|solutionrelative:studentmanagementwinforms\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EFCD456-421C-49BB-BC6E-1C7AA3FC7D1C}|StudentManagementWinForms\\StudentManagementWinForms.csproj|c:\\tuan\\development\\winform\\studentmanagementsolution\\studentmanagementwinforms\\studentmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFCD456-421C-49BB-BC6E-1C7AA3FC7D1C}|StudentManagementWinForms\\StudentManagementWinForms.csproj|solutionrelative:studentmanagementwinforms\\studentmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EFCD456-421C-49BB-BC6E-1C7AA3FC7D1C}|StudentManagementWinForms\\StudentManagementWinForms.csproj|c:\\tuan\\development\\winform\\studentmanagementsolution\\studentmanagementwinforms\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1EFCD456-421C-49BB-BC6E-1C7AA3FC7D1C}|StudentManagementWinForms\\StudentManagementWinForms.csproj|solutionrelative:studentmanagementwinforms\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,49 +22,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tuan\\Development\\winform\\StudentManagementSolution\\AlgorithmPractice\\Program.cs",
               "RelativeDocumentMoniker": "AlgorithmPractice\\Program.cs",
-              "ToolTip": "C:\\Tuan\\Development\\winform\\StudentManagementSolution\\AlgorithmPractice\\Program.cs",
-              "RelativeToolTip": "AlgorithmPractice\\Program.cs",
-              "ViewState": "AgIAANkAAAAAAAAAAIAwwGkDAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Tuan\\Development\\winform\\StudentManagementSolution\\AlgorithmPractice\\Program.cs*",
+              "RelativeToolTip": "AlgorithmPractice\\Program.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T14:31:39.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentManagementForm.cs",
-              "DocumentMoniker": "C:\\Tuan\\Development\\winform\\StudentManagementSolution\\StudentManagementWinForms\\StudentManagementForm.cs",
-              "RelativeDocumentMoniker": "StudentManagementWinForms\\StudentManagementForm.cs",
-              "ToolTip": "C:\\Tuan\\Development\\winform\\StudentManagementSolution\\StudentManagementWinForms\\StudentManagementForm.cs",
-              "RelativeToolTip": "StudentManagementWinForms\\StudentManagementForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T13:55:13.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentManagementForm.cs [Design]",
-              "DocumentMoniker": "C:\\Tuan\\Development\\winform\\StudentManagementSolution\\StudentManagementWinForms\\StudentManagementForm.cs",
-              "RelativeDocumentMoniker": "StudentManagementWinForms\\StudentManagementForm.cs",
-              "ToolTip": "C:\\Tuan\\Development\\winform\\StudentManagementSolution\\StudentManagementWinForms\\StudentManagementForm.cs [Design]",
-              "RelativeToolTip": "StudentManagementWinForms\\StudentManagementForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T13:51:47.155Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentManagementForm.Designer.cs",
-              "DocumentMoniker": "C:\\Tuan\\Development\\winform\\StudentManagementSolution\\StudentManagementWinForms\\StudentManagementForm.Designer.cs",
-              "RelativeDocumentMoniker": "StudentManagementWinForms\\StudentManagementForm.Designer.cs",
-              "ToolTip": "C:\\Tuan\\Development\\winform\\StudentManagementSolution\\StudentManagementWinForms\\StudentManagementForm.Designer.cs",
-              "RelativeToolTip": "StudentManagementWinForms\\StudentManagementForm.Designer.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAQwAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T13:47:02.627Z",
+              "WhenOpened": "2025-10-07T14:33:21.802Z",
               "EditorCaption": ""
             }
           ]
