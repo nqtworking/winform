@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace AlgorithmPractice
 {
@@ -80,9 +81,7 @@ namespace AlgorithmPractice
 
         static void PracticeCustomCode()
         {
-            var input1 = "listen";
-            var input2 = "silentr";
-            Console.WriteLine($"AnagramDetection('{input1}', '{input2}') = {AnagramDetection(input1, input2)}");
+           Console.WriteLine(ValidParenthesses("{{[}]}"));
         }
 
         static bool PalindromeChecker(string input)
@@ -120,6 +119,65 @@ namespace AlgorithmPractice
                     return false;
                 }
             }
+
+            return true;
+        }
+
+        static string StringCompression(string input)
+        {
+            if (string.IsNullOrEmpty(input)) return "";
+            if (input.Length == 1) return input + "1";
+
+            StringBuilder sb = new StringBuilder();
+            char currentChar = input[0];
+            int count = 1;
+
+            for (int i = 1; i < input.Length; i++)
+            {
+                if (input[i] == currentChar)
+                {
+                    count++;
+                }
+                else {
+                    sb.Append(currentChar);
+                    sb.Append(count);
+                    currentChar = input[i];
+                    count = 1;
+                }
+            }
+
+            sb.Append(currentChar);
+            sb.Append(count);
+
+            return sb.ToString();
+        }
+
+        static bool ValidParenthesses(string input) {
+            if (string.IsNullOrEmpty(input) || input.Length % 2 != 0) return false;
+            if (!Regex.IsMatch(input, @"^[\{\[\(\)\]\}]+$")) return false;
+            var parenthesses = new Dictionary<char, char> {
+                { '}', '{' },
+                { ']', '[' },
+                { ')', '(' }
+            }; 
+            if (parenthesses.Keys.Contains(input[0]) || parenthesses.Values.Contains(input[input.Length - 1])) return false;
+
+            Stack<char> stack = new Stack<char>();
+            for (int i = 0; i <= input.Length - 1; i++)
+            {
+                if (parenthesses.Keys.Contains(input[i]))
+                {
+                    if (stack.Count == 0) return false;
+                    char top = stack.Pop();
+                    if (top != parenthesses[input[i]]) return false;
+                }
+                else
+                {
+                    stack.Push(input[i]);
+                }
+            }
+
+            if (stack.Count != 0) return false;
 
             return true;
         }

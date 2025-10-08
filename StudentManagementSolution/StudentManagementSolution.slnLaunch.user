@@ -1,15 +1,6 @@
 [
   {
     "Name": "New Profile",
-    "Projects": [
-      {
-        "Path": "StudentManagementWinForms\\StudentManagementWinForms.csproj",
-        "Action": "StartWithoutDebugging"
-      },
-      {
-        "Path": "StudentManagementWcfHost\\StudentManagementWcfHost.csproj",
-        "Action": "StartWithoutDebugging"
-      }
-    ]
+    "Projects": []
   }
 ]
